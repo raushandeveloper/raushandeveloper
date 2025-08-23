@@ -8,8 +8,7 @@ Email Me 👉 ✉️ raushankumarsingh7033@gmail.com For Collaboration/Project o
 👯 I’m looking to collaborate on: CODEx-Offical GEC Siwan Coding Community
 📫 How to reach me:  raushankumarsingh7033@gmail.com
 ⚡ Fun fact: I Love Tech and Tech Love Me
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=raushandeveloper&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raushan_singh7033) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/raushan-kumar-singh-24a04b33b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raushankumarsingh7033@gmail.com) 
@@ -17,6 +16,8 @@ Email Me 👉 ✉️ raushankumarsingh7033@gmail.com For Collaboration/Project o
 ### 📈 My GitHub Activity Graph
 [![Raushan Singh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raushandeveloper&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true)](https://github.com/raushandeveloper)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=raushandeveloper&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
