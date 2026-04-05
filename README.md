@@ -4,7 +4,7 @@
 
 🚀 • SDE Aspirant & Full Stack Developer  
 💻 • Strong in Java & Data Structures and Algorithms  
-🧠 • Regularly solving problems on LeetCode and GFG 
+🧠 • Regularly solving problems on LeetCode and GFG   
 🔥 • Passionate about problem solving & coding  
 🌐 • Frontend Development: HTML, CSS, JavaScript  
 ⚙️ • Backend Development: Node.js, Express.js, EJS  
