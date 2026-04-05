@@ -1,5 +1,15 @@
-💫 Hi 👋, I'm Raushan Kumar Singh
-||Web Developer||
+## 💫 Hi 👋, I'm Raushan Kumar Singh - Software Developer ##
+
+🌱 • I’m currently learning 
+
+🚀 • SDE Aspirant & Full Stack Developer  
+💻 • Strong in Java & Data Structures and Algorithms  
+🧠 • Regularly solving problems on LeetCode and GFG 
+🔥 • Passionate about problem solving & coding  
+🌐 • Frontend Development: HTML, CSS, JavaScript  
+⚙️ • Backend Development: Node.js, Express.js, EJS  
+📈 • Consistent learner with a growth mindset  
+✨ • Always improving and exploring new technologies  
 
 Email Me 👉 ✉️ raushankumarsingh7033@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
