@@ -16,6 +16,14 @@ Email Me 👉 ✉️ raushankumarsingh7033@gmail.com For Collaboration/Project o
 ### 📈 My GitHub Activity Graph
 [![Raushan Singh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raushandeveloper&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true)](https://github.com/raushandeveloper)
 
+## 📊 GitHub Stats 
+
+<!-- ![Ayush Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=The-Ayush001&show_icons=true&theme=radical&count_private=true&include_all_commits=true) -->
+
+![Raushan Singh's github  Stats](https://github-readme-streak-stats.herokuapp.com/?user=The-Ayush001&theme=dark&hide_border=false)<br/>
+
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=raushandeveloper&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <div align="center">
