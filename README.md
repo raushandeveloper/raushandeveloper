@@ -19,6 +19,11 @@ Email Me 👉 ✉️ raushankumarsingh7033@gmail.com For Collaboration/Project o
 📫 How to reach me:  raushankumarsingh7033@gmail.com
 ⚡ Fun fact: I Love Tech and Tech Love Me
 
+## 📊 Chart of My GitHub Activity
+
+![Raushan Kumar's GitHub Activity Graph](https://activity-graph.vercel.app/graph?username=raushandeveloper\&theme=react-dark)
+
+
 
 ## 🌐 Socials:
 
