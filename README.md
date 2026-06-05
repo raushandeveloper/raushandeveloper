@@ -20,13 +20,18 @@ Email Me 👉 ✉️ raushankumarsingh7033@gmail.com For Collaboration/Project o
 ⚡ Fun fact: I Love Tech and Tech Love Me
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]
-### 📈 My GitHub Activity Graph
-[![Raushan Singh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raushandeveloper&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true)](https://github.com/raushandeveloper)
+## 🌐 Socials:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram\&logoColor=white)](https://instagram.com/raushan_singh7033)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/raushan-kumar-singh-24a04b33b)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail\&logoColor=white)](mailto:raushankumarsingh7033@gmail.com)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks\&logoColor=white)](https://www.geeksforgeeks.org/profile/raushandeveloper)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode\&logoColor=FFA116)](https://leetcode.com/u/raushandeveloper/)
+
 
 ## 📊 GitHub Stats 
 
-<!-- ![Ayush Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=The-Ayush001&show_icons=true&theme=radical&count_private=true&include_all_commits=true) -->
+
 
 ![Raushan Singh's github  Stats](https://github-readme-streak-stats.herokuapp.com/?user=The-Ayush001&theme=dark&hide_border=false)<br/>
 
