@@ -35,7 +35,7 @@ Email Me 👉 ✉️ raushankumarsingh7033@gmail.com For Collaboration/Project o
 
 
 ## 📊 GitHub Stats 
-[![GitHub Streak](https://streak-stats.demolab.com?user=raushandeveloper&theme=react&hide_border=true)](https://git.io/streak-stats)
+![Raushan Singh's github Stats](https://github-readme-streak-stats.herokuapp.com/?user=raushandeveloper\&theme=react-darkborder=false)<br/>
 
 
 ## 🏆 GitHub Trophies
@@ -188,9 +188,12 @@ Email Me 👉 ✉️ raushankumarsingh7033@gmail.com For Collaboration/Project o
 I'm eager to explore collaboration opportunities on projects that leverage cutting-edge technologies, especially in the fields of AI/ML, web development, and creative applications. Don't hesitate to contact me if you have an interesting project or concept you'd like to work on together!  -->
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=raushandeveloper&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=raushandeveloper&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raushandeveloper&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raushandeveloper&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=raushandeveloper&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raushandeveloper&theme=tokyonight&hide_border=true&layout=compact)
 
 
 
