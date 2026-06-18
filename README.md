@@ -35,8 +35,7 @@ Email Me 👉 ✉️ raushankumarsingh7033@gmail.com For Collaboration/Project o
 
 
 ## 📊 GitHub Stats 
-![Raushan Singh's github  Stats](https://github-readme-streak-stats.herokuapp.com/?user=raushandeveloper\&theme=react-darkborder=false)<br/>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=raushandeveloper&theme=react&hide_border=true)](https://git.io/streak-stats)
 
 
 ## 🏆 GitHub Trophies
